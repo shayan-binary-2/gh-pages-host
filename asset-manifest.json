@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gh-pages-host/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gh-pages-host/static/js/main.812fd6d8.chunk.js",
+    "main.js.map": "/gh-pages-host/static/js/main.812fd6d8.chunk.js.map",
+    "runtime-main.js": "/gh-pages-host/static/js/runtime-main.4ee20081.js",
+    "runtime-main.js.map": "/gh-pages-host/static/js/runtime-main.4ee20081.js.map",
+    "static/js/2.1764ae6c.chunk.js": "/gh-pages-host/static/js/2.1764ae6c.chunk.js",
+    "static/js/2.1764ae6c.chunk.js.map": "/gh-pages-host/static/js/2.1764ae6c.chunk.js.map",
+    "index.html": "/gh-pages-host/index.html",
+    "precache-manifest.e9221adfc9e982433480b5aba812be1d.js": "/gh-pages-host/precache-manifest.e9221adfc9e982433480b5aba812be1d.js",
+    "service-worker.js": "/gh-pages-host/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gh-pages-host/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1764ae6c.chunk.js.LICENSE.txt": "/gh-pages-host/static/js/2.1764ae6c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gh-pages-host/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee20081.js",
+    "static/js/2.1764ae6c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.812fd6d8.chunk.js"
+  ]
+}
